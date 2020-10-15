@@ -1,0 +1,7 @@
+print ("\\\\")
+
+#""
+#''
+# newline
+# \ = escape character
+# / 
