@@ -69,8 +69,8 @@
 # zero_to_five = list(range(0, 6))
 # print(zero_to_five)
 
-names_and_heights = [["jenny", 67, 100],["alexus", 70, 100]]
+#names_and_heights = [["jenny", 67, 100],["alexus", 70, 100]]
 
-for names in names_and_heights
-    for atributes in students:
-        print(attribute)
+#for names in names_and_heights
+    #for atributes in students:
+        #print(attribute)
